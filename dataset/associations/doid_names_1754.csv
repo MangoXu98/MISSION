@@ -1,0 +1,1755 @@
+DOID,NAME
+DOID:0050120,hemophagocytic lymphohistiocytosis
+DOID:0050144,kartagener syndrome
+DOID:0050156,idiopathic pulmonary fibrosis
+DOID:0050168,autoimmune polyendocrine syndrome type 2
+DOID:0050328,congenital hypothyroidism
+DOID:0050424,familial adenomatous polyposis
+DOID:0050425,restless legs syndrome
+DOID:0050429,hailey-hailey disease
+DOID:0050440,familial partial lipodystrophy
+DOID:0050445,x-linked dominant hypophosphatemic rickets
+DOID:0050458,juvenile myelomonocytic leukemia
+DOID:0050462,antley-bixler syndrome
+DOID:0050473,alstrom syndrome
+DOID:0050476,barth syndrome
+DOID:0050540,charcot-marie-tooth disease type 3
+DOID:0050572,cone-rod dystrophy
+DOID:0050580,hereditary lymphedema
+DOID:0050589,inflammatory bowel disease
+DOID:0050605,acrodermatitis enteropathica
+DOID:0050606,acrokeratosis verruciformis
+DOID:0050628,advanced sleep phase syndrome
+DOID:0050650,familial atrial fibrillation
+DOID:0050699,dent disease
+DOID:0050700,cardiomyopathy
+DOID:0050711,aceruloplasminemia
+DOID:0050741,alcohol dependence
+DOID:0050759,myotonic dystrophy type 2
+DOID:0050762,adenylosuccinase lyase deficiency
+DOID:0050770,polycystic liver disease
+DOID:0050773,paraganglioma
+DOID:0050801,androgenic alopecia
+DOID:0050811,congenital adrenal hyperplasia
+DOID:0050817,stargardt disease
+DOID:0050820,atrioventricular block
+DOID:0050848,obstructive sleep apnea
+DOID:0050873,follicular lymphoma
+DOID:0050882,spinocerebellar ataxia type 5
+DOID:0050902,medulloblastoma
+DOID:0050908,myelodysplastic syndrome
+DOID:0060008,janus kinase-3 deficiency
+DOID:0060023,immunodeficiency with hyper igm type 3
+DOID:0060025,immunoglobulin alpha deficiency
+DOID:0060067,pearson syndrome
+DOID:0060162,dentatorubral-pallidoluysian atrophy
+DOID:0060169,benign familial infantile epilepsy
+DOID:0060175,succinic semialdehyde dehydrogenase deficiency
+DOID:0060193,amyotrophic lateral sclerosis type 1
+DOID:0060243,stuttering
+DOID:0060284,paroxysmal nocturnal hemoglobinuria
+DOID:0060318,acute promyelocytic leukemia
+DOID:0060326,myelomeningocele
+DOID:0060359,sakati-nyhan syndrome
+DOID:0060380,orofaciodigital syndrome x
+DOID:0060556,kufor-rakeb syndrome
+DOID:0060573,von willebrand's disease 1
+DOID:0060574,von willebrand's disease 2
+DOID:0060578,noonan syndrome 1
+DOID:0060580,noonan syndrome 2
+DOID:0060581,noonan syndrome 3
+DOID:0060582,noonan syndrome 4
+DOID:0060583,noonan syndrome 5
+DOID:0060584,noonan syndrome 6
+DOID:0060585,noonan syndrome 7
+DOID:0060586,noonan syndrome 8
+DOID:0060587,noonan syndrome 9
+DOID:0060588,noonan syndrome 10
+DOID:0060597,atypical chronic myeloid leukemia
+DOID:0060599,nance-horan syndrome
+DOID:0060610,megacystis-microcolon-intestinal hypoperistalsis syndrome
+DOID:0060614,ulnar-mammary syndrome
+DOID:0060639,permanent neonatal diabetes mellitus
+DOID:0060640,ethylmalonic encephalopathy
+DOID:0060642,recessive dystrophic epidermolysis bullosa
+DOID:0060648,anterior segment dysgenesis
+DOID:0060655,autosomal recessive congenital ichthyosis
+DOID:0060656,autosomal recessive congenital ichthyosis 1
+DOID:0060670,cerebral cavernous malformation 2
+DOID:0060671,cerebral cavernous malformation 3
+DOID:0060673,peters anomaly
+DOID:0060674,catecholaminergic polymorphic ventricular tachycardia
+DOID:0060677,catecholaminergic polymorphic ventricular tachycardia 3
+DOID:0060682,autosomal dominant nocturnal frontal lobe epilepsy 1
+DOID:0060685,autosomal dominant nocturnal frontal lobe epilepsy 4
+DOID:0060688,arteriovenous malformations of the brain
+DOID:0060697,hyperekplexia 2
+DOID:0060698,hyperekplexia 3
+DOID:0060701,familial hypocalciuric hypercalcemia 2
+DOID:0060702,familial hypocalciuric hypercalcemia 3
+DOID:0060703,muenke syndrome
+DOID:0060705,x-linked lymphoproliferative syndrome 1
+DOID:0060706,x-linked lymphoproliferative syndrome 2
+DOID:0060707,lymphoproliferative syndrome 1
+DOID:0060708,lymphoproliferative syndrome 2
+DOID:0060710,autosomal recessive congenital ichthyosis 2
+DOID:0060711,autosomal recessive congenital ichthyosis 3
+DOID:0060714,autosomal recessive congenital ichthyosis 5
+DOID:0060715,autosomal recessive congenital ichthyosis 6
+DOID:0060716,autosomal recessive congenital ichthyosis 7
+DOID:0060717,autosomal recessive congenital ichthyosis 8
+DOID:0060719,autosomal recessive congenital ichthyosis 10
+DOID:0060730,torsion dystonia 1
+DOID:0060731,congenital central hypoventilation syndrome
+DOID:0060735,epidermolysis bullosa simplex dowling-meara type
+DOID:0060737,junctional epidermolysis bullosa herlitz type
+DOID:0060747,duane-radial ray syndrome
+DOID:0060758,immunodeficiency with hyper-igm type 2
+DOID:0060759,immunodeficiency with hyper igm type 5
+DOID:0060762,lethal restrictive dermopathy
+DOID:0060763,x-linked juvenile retinoschisis 1
+DOID:0060768,smith-magenis syndrome
+DOID:0060770,dextro-looped transposition of the great arteries
+DOID:0060771,dextro-looped transposition of the great arteries 1
+DOID:0060772,dextro-looped transposition of the great arteries 3
+DOID:0060775,microvillus inclusion disease
+DOID:0060779,congenital malabsorptive diarrhea 4
+DOID:0060782,eec syndrome
+DOID:0060787,hypomyelinating leukodystrophy 2
+DOID:0060789,hypomyelinating leukodystrophy 4
+DOID:0060790,hypomyelinating leukodystrophy 3
+DOID:0060793,hypomyelinating leukodystrophy 5
+DOID:0060800,syndromic x-linked intellectual disability 5
+DOID:0060810,syndromic x-linked intellectual disability type 10
+DOID:0060816,corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome
+DOID:0060817,syndromic x-linked intellectual disability 34
+DOID:0060827,x-linked intellectual disability-psychosis-macroorchidism syndrome
+DOID:0060835,isolated microphthalmia 6
+DOID:0060836,isolated microphthalmia 4
+DOID:0060837,isolated microphthalmia 5
+DOID:0060838,isolated microphthalmia 7
+DOID:0060839,isolated microphthalmia 2
+DOID:0060841,isolated microphthalmia 8
+DOID:0060842,isolated microphthalmia 3
+DOID:0060844,norrie disease
+DOID:0060847,leri-weill dyschondrosteosis
+DOID:0060849,osteoporosis-pseudoglioma syndrome
+DOID:0060851,pemphigus vulgaris
+DOID:0060852,pierson syndrome
+DOID:0060853,potocki-lupski syndrome
+DOID:0060854,autosomal recessive pseudohypoaldosteronism type 1
+DOID:0060855,autosomal dominant pseudohypoaldosteronism type 1
+DOID:0060856,right atrial isomerism
+DOID:0060857,septooptic dysplasia
+DOID:0060862,mal de meleda
+DOID:0060864,patterned macular dystrophy 2
+DOID:0060866,patterned macular dystrophy 1
+DOID:0060869,late-onset retinal degeneration
+DOID:0060870,isolated growth hormone deficiency
+DOID:0060877,bullous congenital ichthyosiform erythroderma
+DOID:0060880,renal hypomagnesemia 3
+DOID:0060882,renal hypomagnesemia 4
+DOID:0060884,renal hypomagnesemia 6
+DOID:0060885,renal hypomagnesemia 2
+DOID:0060889,prune belly syndrome
+DOID:0060892,late onset parkinson's disease
+DOID:0060895,parkinson's disease 4
+DOID:0060896,parkinson's disease 23
+DOID:0060897,parkinson's disease 17
+DOID:0060898,parkinson's disease 20
+DOID:0060900,parkinson's disease 14
+DOID:0070025,x-linked dyskeratosis congenita
+DOID:0070027,cst3-related cerebral amyloid angiopathy
+DOID:0070042,coffin-siris syndrome 1
+DOID:0070050,autosomal dominant mental retardation 20
+DOID:0070111,niemann-pick disease type a
+DOID:0070113,niemann-pick disease type c1
+DOID:0070115,meckel syndrome 1
+DOID:0070116,meckel syndrome 2
+DOID:0070117,meckel syndrome 3
+DOID:0070118,meckel syndrome 4
+DOID:0070142,autosomal dominant cutis laxa
+DOID:0070144,autosomal recessive cutis laxa type i
+DOID:0070145,hereditary sensory and autonomic neuropathy type 5
+DOID:0070146,hereditary sensory neuropathy type 4
+DOID:0070151,hereditary sensory and autonomic neuropathy type 6
+DOID:0070161,hereditary sensory and autonomic neuropathy type 2
+DOID:0070162,hereditary sensory and autonomic neuropathy type 1
+DOID:0070167,spermatogenic failure 6
+DOID:0070169,spermatogenic failure 8
+DOID:0070171,spermatogenic failure 12
+DOID:0070173,spermatogenic failure 7
+DOID:0070176,spermatogenic failure 4
+DOID:0070178,spermatogenic failure 10
+DOID:0070180,spermatogenic failure 11
+DOID:0070182,spermatogenic failure 13
+DOID:0070195,x-linked chronic granulomatous disease
+DOID:0070197,distal myopathy 1
+DOID:0070198,miyoshi muscular dystrophy
+DOID:0070199,miyoshi muscular dystrophy 1
+DOID:0070202,familial partial lipodystrophy type 2
+DOID:0070204,familial partial lipodystrophy type 3
+DOID:0070207,familial partial lipodystrophy type 1
+DOID:0070212,hereditary lymphedema i
+DOID:0070215,familial hyperinsulinemic hypoglycemia 4
+DOID:0070216,familial hyperinsulinemic hypoglycemia 3
+DOID:0070218,familial hyperinsulinemic hypoglycemia 2
+DOID:0070219,familial hyperinsulinemic hypoglycemia 1
+DOID:0070222,progressive familial intrahepatic cholestasis 2
+DOID:0070223,progressive familial intrahepatic cholestasis 3
+DOID:0070225,progressive familial intrahepatic cholestasis 5
+DOID:0070226,progressive familial intrahepatic cholestasis 1
+DOID:0070231,benign recurrent intrahepatic cholestasis 1
+DOID:0070232,benign recurrent intrahepatic cholestasis 2
+DOID:0070234,loeys-dietz syndrome 2
+DOID:0070235,loeys-dietz syndrome 1
+DOID:0070246,x-linked emery-dreifuss muscular dystrophy 1
+DOID:0070247,autosomal dominant emery-dreifuss muscular dystrophy 2
+DOID:0070251,x-linked emery-dreifuss muscular dystrophy 6
+DOID:0070261,congenital disorder of glycosylation type iii
+DOID:0070271,lynch syndrome 1
+DOID:0070272,hereditary nonpolyposis colorectal cancer type 5
+DOID:0070273,hereditary nonpolyposis colorectal cancer type 6
+DOID:0070274,hereditary nonpolyposis colorectal cancer type 2
+DOID:0070275,hereditary nonpolyposis colorectal cancer type 4
+DOID:0070276,hereditary nonpolyposis colorectal cancer type 7
+DOID:0070285,primary autosomal recessive microcephaly 1
+DOID:0070298,multiple epiphyseal dysplasia 2
+DOID:0070301,multiple epiphyseal dysplasia 6
+DOID:0070303,multiple epiphyseal dysplasia 1
+DOID:0070304,multiple epiphyseal dysplasia 3
+DOID:0080016,spina bifida
+DOID:0080020,jansen's metaphyseal chondrodysplasia
+DOID:0080067,charcot-marie-tooth disease type 5
+DOID:0080072,intestinal pseudo-obstruction
+DOID:0080147,lymphoblastic lymphoma
+DOID:0080150,adrenocorticotropic hormone deficiency
+DOID:0080154,short chain acyl-coa dehydrogenase deficiency
+DOID:0080155,very long chain acyl-coa dehydrogenase deficiency
+DOID:0080188,chronic myelomonocytic leukemia
+DOID:0080191,pten hamartoma tumor syndrome
+DOID:0080195,marinesco-sjogren syndrome
+DOID:0080199,colorectal carcinoma
+DOID:0080201,peters plus syndrome
+DOID:0080205,cakut
+DOID:0080212,polycystic kidney disease 4
+DOID:0080223,epidermolytic palmoplantar keratoderma
+DOID:0080224,autosomal dominant dystrophic epidermolysis bullosa
+DOID:0080307,myofibrillar myopathy
+DOID:0080315,megalencephalic leukoencephalopathy with subcortical cysts
+DOID:0080316,megalencephalic leukoencephalopathy with subcortical cysts 1
+DOID:0080324,tuberous sclerosis 1
+DOID:0080325,tuberous sclerosis 2
+DOID:0080326,familial hypertrophic cardiomyopathy
+DOID:0080332,bicuspid aortic valve disease
+DOID:0080333,aortic valve disease 1
+DOID:0080334,aortic valve disease 2
+DOID:0080348,alzheimer's disease 1
+DOID:0080350,retinitis pigmentosa 77
+DOID:0080351,cloves syndrome
+DOID:0080352,x-linked chondrodysplasia punctata 2
+DOID:0080353,x-linked recessive hypophosphatemic rickets
+DOID:0080361,trimethylaminuria
+DOID:0080362,spondyloepiphyseal dysplasia tarda
+DOID:0080363,mitochondrial pyruvate carrier deficiency
+DOID:0080380,nephrotic syndrome type 5
+DOID:0080381,nephrotic syndrome type 13
+DOID:0080383,nephrotic syndrome type 4
+DOID:0080384,nephrotic syndrome type 6
+DOID:0080385,nephrotic syndrome type 11
+DOID:0080386,nephrotic syndrome type 10
+DOID:0080387,nephrotic syndrome type 12
+DOID:0080388,nephrotic syndrome type 7
+DOID:0080389,nephrotic syndrome type 8
+DOID:0080391,nephrotic syndrome type 9
+DOID:0080395,orofacial cleft 1
+DOID:0080399,orofacial cleft 5
+DOID:0080404,orofacial cleft 11
+DOID:0080408,orofacial cleft 15
+DOID:0080409,familial adenomatous polyposis 1
+DOID:0080410,familial adenomatous polyposis 2
+DOID:0080422,dravet syndrome
+DOID:0080438,early infantile epileptic encephalopathy 5
+DOID:0080440,early infantile epileptic encephalopathy 3
+DOID:0080457,"microcephaly, seizures, and developmental delay"
+DOID:0080467,early infantile epileptic encephalopathy 2
+DOID:0080468,early infantile epileptic encephalopathy 1
+DOID:0080489,gm1 gangliosidosis type 3
+DOID:0080490,mucolipidosis type iv
+DOID:0080491,cerebral cavernous malformation 1
+DOID:0080492,leukocyte adhesion deficiency 2
+DOID:0080495,ovarian dysgenesis 3
+DOID:0080496,ovarian dysgenesis 4
+DOID:0080501,gm1 gangliosidosis type 2
+DOID:0080502,gm1 gangliosidosis type 1
+DOID:0080504,parkinson's disease 22
+DOID:0080505,cornelia de lange syndrome 1
+DOID:0080506,cornelia de lange syndrome 2
+DOID:0080507,cornelia de lange syndrome 3
+DOID:0080511,epidermolysis bullosa simplex generalized type
+DOID:0080519,papa syndrome
+DOID:0080526,bronchiectasis 1
+DOID:0080527,bronchiectasis 2
+DOID:0080533,carney-stratakis syndrome
+DOID:0080540,galactosialidosis
+DOID:0080544,hyper igm syndrome
+DOID:0080548,noonan syndrome with multiple lentigines 1
+DOID:0080549,noonan syndrome with multiple lentigines 2
+DOID:0080550,noonan syndrome with multiple lentigines 3
+DOID:0080551,naxos disease
+DOID:0080552,congenital disorder of glycosylation ia
+DOID:0080553,congenital disorder of glycosylation iaa
+DOID:0080554,congenital disorder of glycosylation ib
+DOID:0080558,congenital disorder of glycosylation if
+DOID:0080561,congenital disorder of glycosylation ii
+DOID:0080565,congenital disorder of glycosylation im
+DOID:0080566,congenital disorder of glycosylation in
+DOID:0080570,congenital disorder of glycosylation it
+DOID:0080571,congenital disorder of glycosylation iu
+DOID:0080572,congenital disorder of glycosylation iw
+DOID:0080574,congenital disorder of glycosylation iy
+DOID:0080576,"spondyloepimetaphyseal dysplasia, genevieve-type"
+DOID:0080589,klippel-feil syndrome 1
+DOID:0080590,klippel-feil syndrome 2
+DOID:0080591,klippel-feil syndrome 3
+DOID:0080592,klippel-feil syndrome 4
+DOID:0080593,orofacial cleft 6
+DOID:0080594,hyper ige recurrent infection syndrome 2
+DOID:0090001,fraser syndrome
+DOID:0090005,schwartz-jampel syndrome 1
+DOID:0090006,renal coloboma syndrome
+DOID:0090016,chromosome 5q deletion syndrome
+DOID:0090018,autosomal dominant familial periodic fever
+DOID:0090020,split hand-foot malformation
+DOID:0090021,split hand-foot malformation 1
+DOID:0090025,split hand-foot malformation 3
+DOID:0090028,familial isolated deficiency of vitamin e
+DOID:0090029,cinca syndrome
+DOID:0090031,d-bifunctional protein deficiency
+DOID:0090038,torsion dystonia 2
+DOID:0090039,torsion dystonia 6
+DOID:0090041,torsion dystonia 4
+DOID:0090043,dystonia 5
+DOID:0090046,dystonia 21
+DOID:0090049,paroxysmal nonkinesigenic dyskinesia 1
+DOID:0090050,dystonia 27
+DOID:0090053,episodic kinesigenic dyskinesia 1
+DOID:0090055,dystonia 25
+DOID:0090057,x-linked dystonia-parkinsonism
+DOID:0090059,enhanced s-cone syndrome
+DOID:0090060,wolcott-rallison syndrome
+DOID:0090061,familial cold autoinflammatory syndrome
+DOID:0090062,familial cold autoinflammatory syndrome 1
+DOID:0090065,familial cold autoinflammatory syndrome 4
+DOID:0090068,giant axonal neuropathy 1
+DOID:0090070,hypogonadotropic hypogonadism
+DOID:0090071,hypogonadotropic hypogonadism 11 with or without anosmia
+DOID:0090072,hypogonadotropic hypogonadism 12 with or without anosmia
+DOID:0090073,hypogonadotropic hypogonadism 13 with or without anosmia
+DOID:0090074,hypogonadotropic hypogonadism 8 with or without anosmia
+DOID:0090075,hypogonadotropic hypogonadism 15 with or without anosmia
+DOID:0090076,hypogonadotropic hypogonadism 18 with or without anosmia
+DOID:0090077,hypogonadotropic hypogonadism 4 with or without anosmia
+DOID:0090078,hypogonadotropic hypogonadism 7 with or without anosmia
+DOID:0090079,hypogonadotropic hypogonadism 17 with or without anosmia
+DOID:0090080,hypogonadotropic hypogonadism 16 with or without anosmia
+DOID:0090081,hypogonadotropic hypogonadism 22 with or without anosmia
+DOID:0090082,hypogonadotropic hypogonadism 20 with or without anosmia
+DOID:0090083,hypogonadotropic hypogonadism 2 with or without anosmia
+DOID:0090084,hypogonadotropic hypogonadism 5 with or without anosmia
+DOID:0090085,hypogonadotropic hypogonadism 9 with or without anosmia
+DOID:0090086,hypogonadotropic hypogonadism 6 with or without anosmia
+DOID:0090087,hypogonadotropic hypogonadism 14 with or without anosmia
+DOID:0090089,hypogonadotropic hypogonadism 10 with or without anosmia
+DOID:0090090,hypogonadotropic hypogonadism 19 with or without anosmia
+DOID:0090091,hypogonadotropic hypogonadism 23 with or without anosmia
+DOID:0090092,hypogonadotropic hypogonadism 3 with or without anosmia
+DOID:0090093,hypogonadotropic hypogonadism 21 with or without anosmia
+DOID:0090094,hypogonadotropic hypogonadism 1 with or without anosmia
+DOID:0090103,huntington's disease-like 1
+DOID:0090104,huntington's disease-like 2
+DOID:0090110,immune dysregulation-polyendocrinopathy-enteropathy-x-linked syndrome
+DOID:0090115,spinocerebellar ataxia type 1 with axonal neuropathy
+DOID:0090117,thiamine-responsive megaloblastic anemia syndrome
+DOID:0090118,congenital amegakaryocytic thrombocytopenia
+DOID:0090123,aromatic l-amino acid decarboxylase deficiency
+DOID:0090124,neurogenic arthrogryposis multiplex congenita
+DOID:0090133,complex cortical dysplasia with other brain malformations 2
+DOID:0090134,complex cortical dysplasia with other brain malformations 3
+DOID:0090135,complex cortical dysplasia with other brain malformations 5
+DOID:0090136,complex cortical dysplasia with other brain malformations 6
+DOID:0090137,complex cortical dysplasia with other brain malformations 1
+DOID:0090138,complex cortical dysplasia with other brain malformations 4
+DOID:0090142,cystathioninuria
+DOID:0110004,3-methylglutaconic aciduria type 3
+DOID:0110008,achromatopsia 3
+DOID:0110010,achromatopsia 4
+DOID:0110014,age related macular degeneration 1
+DOID:0110015,age related macular degeneration 2
+DOID:0110017,age related macular degeneration 4
+DOID:0110018,age related macular degeneration 6
+DOID:0110023,age related macular degeneration 11
+DOID:0110025,age related macular degeneration 13
+DOID:0110030,alpha thalassemia-x-linked intellectual disability syndrome
+DOID:0110031,hemoglobin h disease
+DOID:0110032,autosomal dominant alport syndrome
+DOID:0110033,autosomal recessive alport syndrome
+DOID:0110034,x-linked alport syndrome
+DOID:0110035,alzheimer's disease 2
+DOID:0110037,alzheimer's disease 5
+DOID:0110038,alzheimer's disease 6
+DOID:0110039,alzheimer's disease 7
+DOID:0110040,alzheimer's disease 4
+DOID:0110041,alzheimer's disease 8
+DOID:0110042,alzheimer's disease 3
+DOID:0110043,alzheimer's disease 10
+DOID:0110044,alzheimer's disease 11
+DOID:0110045,alzheimer's disease 12
+DOID:0110046,alzheimer's disease 13
+DOID:0110047,alzheimer's disease 14
+DOID:0110048,alzheimer's disease 15
+DOID:0110070,arrhythmogenic right ventricular dysplasia 1
+DOID:0110071,arrhythmogenic right ventricular dysplasia 2
+DOID:0110074,arrhythmogenic right ventricular dysplasia 5
+DOID:0110076,arrhythmogenic right ventricular dysplasia 8
+DOID:0110077,arrhythmogenic right ventricular dysplasia 9
+DOID:0110079,leber congenital amaurosis 8
+DOID:0110081,arrhythmogenic right ventricular dysplasia 10
+DOID:0110082,arrhythmogenic right ventricular dysplasia 11
+DOID:0110083,arrhythmogenic right ventricular dysplasia 12
+DOID:0110085,asphyxiating thoracic dystrophy 1
+DOID:0110087,asphyxiating thoracic dystrophy 3
+DOID:0110092,short-rib thoracic dysplasia 6 with or without polydactyly
+DOID:0110106,atrial heart septal defect 1
+DOID:0110107,atrial heart septal defect 2
+DOID:0110108,atrial heart septal defect 3
+DOID:0110109,atrial heart septal defect 4
+DOID:0110110,atrial heart septal defect 5
+DOID:0110111,atrial heart septal defect 6
+DOID:0110112,atrial heart septal defect 7
+DOID:0110113,atrial heart septal defect 8
+DOID:0110114,atrial heart septal defect 9
+DOID:0110116,autoimmune lymphoproliferative syndrome type 2b
+DOID:0110118,leber congenital amaurosis 16
+DOID:0110120,axenfeld-rieger syndrome type 1
+DOID:0110122,axenfeld-rieger syndrome type 3
+DOID:0110124,bardet-biedl syndrome 2
+DOID:0110127,bardet-biedl syndrome 5
+DOID:0110129,bardet-biedl syndrome 7
+DOID:0110133,bardet-biedl syndrome 11
+DOID:0110135,bardet-biedl syndrome 13
+DOID:0110136,bardet-biedl syndrome 14
+DOID:0110138,bardet-biedl syndrome 16
+DOID:0110139,bardet-biedl syndrome 17
+DOID:0110141,bardet-biedl syndrome 19
+DOID:0110142,bartter disease type 1
+DOID:0110143,bartter disease type 2
+DOID:0110144,bartter disease type 3
+DOID:0110147,bartter disease type 5
+DOID:0110148,charcot-marie-tooth disease type 1a
+DOID:0110152,charcot-marie-tooth disease type 1b
+DOID:0110188,leber congenital amaurosis 14
+DOID:0110202,charcot-marie-tooth disease dominant intermediate a
+DOID:0110209,charcot-marie-tooth disease x-linked dominant 1
+DOID:0110213,isolated cleft palate
+DOID:0110216,leber congenital amaurosis 11
+DOID:0110217,leber congenital amaurosis 17
+DOID:0110221,brugada syndrome 4
+DOID:0110222,brugada syndrome 5
+DOID:0110223,brugada syndrome 6
+DOID:0110224,brugada syndrome 7
+DOID:0110225,brugada syndrome 8
+DOID:0110226,brugada syndrome 9
+DOID:0110237,cataract 42
+DOID:0110238,cataract 18
+DOID:0110242,cataract 13 with adult i phenotype
+DOID:0110245,cataract 38
+DOID:0110247,cataract 36
+DOID:0110248,cataract 30
+DOID:0110259,cataract 43
+DOID:0110260,cataract 7
+DOID:0110262,cataract 45
+DOID:0110267,cataract 44
+DOID:0110271,cataract 23
+DOID:0110272,cataract 40
+DOID:0110273,autosomal dominant limb-girdle muscular dystrophy
+DOID:0110306,autosomal dominant limb-girdle muscular dystrophy type 3
+DOID:0110307,hypertrophic cardiomyopathy 1
+DOID:0110312,hypertrophic cardiomyopathy 6
+DOID:0110313,hypertrophic cardiomyopathy 7
+DOID:0110314,hypertrophic cardiomyopathy 8
+DOID:0110315,hypertrophic cardiomyopathy 9
+DOID:0110316,hypertrophic cardiomyopathy 10
+DOID:0110318,hypertrophic cardiomyopathy 12
+DOID:0110319,hypertrophic cardiomyopathy 13
+DOID:0110320,hypertrophic cardiomyopathy 14
+DOID:0110321,hypertrophic cardiomyopathy 15
+DOID:0110322,hypertrophic cardiomyopathy 16
+DOID:0110323,hypertrophic cardiomyopathy 17
+DOID:0110324,hypertrophic cardiomyopathy 18
+DOID:0110326,hypertrophic cardiomyopathy 20
+DOID:0110327,hypertrophic cardiomyopathy 26
+DOID:0110330,leber congenital amaurosis 13
+DOID:0110331,leber congenital amaurosis 3
+DOID:0110334,osteogenesis imperfecta type 1
+DOID:0110336,osteogenesis imperfecta type 8
+DOID:0110338,osteogenesis imperfecta type 17
+DOID:0110341,osteogenesis imperfecta type 2
+DOID:0110342,osteogenesis imperfecta type 13
+DOID:0110343,osteogenesis imperfecta type 14
+DOID:0110345,osteogenesis imperfecta type 16
+DOID:0110346,osteogenesis imperfecta type 10
+DOID:0110347,osteogenesis imperfecta type 15
+DOID:0110348,osteogenesis imperfecta type 12
+DOID:0110349,osteogenesis imperfecta type 9
+DOID:0110351,osteogenesis imperfecta type 11
+DOID:0110352,retinitis pigmentosa 59
+DOID:0110353,retinitis pigmentosa 20
+DOID:0110354,retinitis pigmentosa 19
+DOID:0110356,retinitis pigmentosa 18
+DOID:0110359,retinitis pigmentosa 67
+DOID:0110360,retinitis pigmentosa 39
+DOID:0110361,retinitis pigmentosa 75
+DOID:0110362,retinitis pigmentosa 58
+DOID:0110363,retinitis pigmentosa 71
+DOID:0110364,retinitis pigmentosa 54
+DOID:0110365,retinitis pigmentosa 28
+DOID:0110366,retinitis pigmentosa 33
+DOID:0110367,retinitis pigmentosa 38
+DOID:0110368,retinitis pigmentosa 26
+DOID:0110369,retinitis pigmentosa 47
+DOID:0110370,retinitis pigmentosa 55
+DOID:0110371,retinitis pigmentosa 56
+DOID:0110373,retinitis pigmentosa 61
+DOID:0110374,retinitis pigmentosa 68
+DOID:0110375,retinitis pigmentosa 40
+DOID:0110376,retinitis pigmentosa 41
+DOID:0110377,retinitis pigmentosa 49
+DOID:0110379,retinitis pigmentosa 43
+DOID:0110380,retinitis pigmentosa 62
+DOID:0110382,retinitis pigmentosa 48
+DOID:0110383,retinitis pigmentosa 7
+DOID:0110386,retinitis pigmentosa 42
+DOID:0110387,retinitis pigmentosa 9
+DOID:0110388,retinitis pigmentosa 10
+DOID:0110389,retinitis pigmentosa 73
+DOID:0110391,retinitis pigmentosa 31
+DOID:0110392,retinitis pigmentosa 70
+DOID:0110393,retinitis pigmentosa 66
+DOID:0110395,retinitis pigmentosa 72
+DOID:0110396,retinitis pigmentosa 50
+DOID:0110397,retinitis pigmentosa 27
+DOID:0110398,retinitis pigmentosa 51
+DOID:0110399,retinitis pigmentosa 37
+DOID:0110401,retinitis pigmentosa 74
+DOID:0110402,retinitis pigmentosa 45
+DOID:0110403,retinitis pigmentosa 13
+DOID:0110404,retinitis pigmentosa 17
+DOID:0110405,retinitis pigmentosa 36
+DOID:0110406,retinitis pigmentosa 30
+DOID:0110407,retinitis pigmentosa 57
+DOID:0110408,retinitis pigmentosa 11
+DOID:0110409,retinitis pigmentosa 46
+DOID:0110410,retinitis pigmentosa 69
+DOID:0110411,retinitis pigmentosa 60
+DOID:0110412,retinitis pigmentosa 23
+DOID:0110414,retinitis pigmentosa 3
+DOID:0110419,retinitis pigmentosa with or without situs inversus
+DOID:0110425,dilated cardiomyopathy 1a
+DOID:0110430,dilated cardiomyopathy 1g
+DOID:0110439,dilated cardiomyopathy 1p
+DOID:0110443,dilated cardiomyopathy 1b
+DOID:0110460,dilated cardiomyopathy 2a
+DOID:0110594,primary ciliary dyskinesia 1
+DOID:0110596,primary ciliary dyskinesia 21
+DOID:0110597,primary ciliary dyskinesia 22
+DOID:0110598,primary ciliary dyskinesia 14
+DOID:0110599,primary ciliary dyskinesia 3
+DOID:0110600,primary ciliary dyskinesia 29
+DOID:0110601,primary ciliary dyskinesia 12
+DOID:0110603,primary ciliary dyskinesia 32
+DOID:0110604,primary ciliary dyskinesia 18
+DOID:0110606,primary ciliary dyskinesia 6
+DOID:0110607,primary ciliary dyskinesia 28
+DOID:0110608,primary ciliary dyskinesia 19
+DOID:0110609,primary ciliary dyskinesia 23
+DOID:0110610,primary ciliary dyskinesia 34
+DOID:0110611,primary ciliary dyskinesia 27
+DOID:0110612,primary ciliary dyskinesia 10
+DOID:0110613,primary ciliary dyskinesia 16
+DOID:0110617,primary ciliary dyskinesia 5
+DOID:0110618,primary ciliary dyskinesia 13
+DOID:0110619,primary ciliary dyskinesia 33
+DOID:0110620,primary ciliary dyskinesia 35
+DOID:0110621,primary ciliary dyskinesia 17
+DOID:0110622,primary ciliary dyskinesia 9
+DOID:0110623,primary ciliary dyskinesia 15
+DOID:0110624,primary ciliary dyskinesia 30
+DOID:0110625,primary ciliary dyskinesia 20
+DOID:0110626,primary ciliary dyskinesia 2
+DOID:0110627,primary ciliary dyskinesia 26
+DOID:0110628,primary ciliary dyskinesia 24
+DOID:0110629,wolfram syndrome 1
+DOID:0110633,rigid spine muscular dystrophy 1
+DOID:0110640,congenital muscular dystrophy due to lmna mutation
+DOID:0110644,long qt syndrome 1
+DOID:0110645,long qt syndrome 2
+DOID:0110651,long qt syndrome 10
+DOID:0110652,long qt syndrome 11
+DOID:0110654,long qt syndrome 13
+DOID:0110655,long qt syndrome 14
+DOID:0110656,long qt syndrome 15
+DOID:0110667,congenital myasthenic syndrome 5
+DOID:0110668,congenital myasthenic syndrome 10
+DOID:0110671,congenital myasthenic syndrome 6
+DOID:0110703,hypotrichosis 6
+DOID:0110712,oguchi disease-1
+DOID:0110721,neuronal ceroid lipofuscinosis 1
+DOID:0110722,neuronal ceroid lipofuscinosis 7
+DOID:0110723,neuronal ceroid lipofuscinosis 8
+DOID:0110725,neuronal ceroid lipofuscinosis 10
+DOID:0110726,neuronal ceroid lipofuscinosis 2
+DOID:0110727,neuronal ceroid lipofuscinosis 13
+DOID:0110729,neuronal ceroid lipofuscinosis 6
+DOID:0110731,neuronal ceroid lipofuscinosis 3
+DOID:0110732,neuronal ceroid lipofuscinosis 11
+DOID:0110733,neuronal ceroid lipofuscinosis 9
+DOID:0110734,neurodegeneration with brain iron accumulation
+DOID:0110735,neurodegeneration with brain iron accumulation 2a
+DOID:0110737,neurodegeneration with brain iron accumulation 3
+DOID:0110738,neurodegeneration with brain iron accumulation 4
+DOID:0110739,neurodegeneration with brain iron accumulation 5
+DOID:0110740,neurodegeneration with brain iron accumulation 6
+DOID:0110741,type 1 diabetes mellitus 2
+DOID:0110742,type 1 diabetes mellitus 3
+DOID:0110743,type 1 diabetes mellitus 4
+DOID:0110744,type 1 diabetes mellitus 5
+DOID:0110745,type 1 diabetes mellitus 6
+DOID:0110746,type 1 diabetes mellitus 7
+DOID:0110747,type 1 diabetes mellitus 8
+DOID:0110749,type 1 diabetes mellitus 10
+DOID:0110750,type 1 diabetes mellitus 11
+DOID:0110751,type 1 diabetes mellitus 12
+DOID:0110752,type 1 diabetes mellitus 13
+DOID:0110753,type 1 diabetes mellitus 15
+DOID:0110754,type 1 diabetes mellitus 17
+DOID:0110755,type 1 diabetes mellitus 18
+DOID:0110756,type 1 diabetes mellitus 19
+DOID:0110757,type 1 diabetes mellitus 20
+DOID:0110758,type 1 diabetes mellitus 21
+DOID:0110759,type 1 diabetes mellitus 22
+DOID:0110760,type 1 diabetes mellitus 23
+DOID:0110761,type 1 diabetes mellitus 24
+DOID:0110763,hereditary spastic paraplegia 10
+DOID:0110764,hereditary spastic paraplegia 11
+DOID:0110765,hereditary spastic paraplegia 12
+DOID:0110766,hereditary spastic paraplegia 13
+DOID:0110767,hereditary spastic paraplegia 14
+DOID:0110768,hereditary spastic paraplegia 15
+DOID:0110769,hereditary spastic paraplegia 16
+DOID:0110770,hereditary spastic paraplegia 17
+DOID:0110771,hereditary spastic paraplegia 18
+DOID:0110772,hereditary spastic paraplegia 19
+DOID:0110773,hereditary spastic paraplegia 2
+DOID:0110774,hereditary spastic paraplegia 23
+DOID:0110775,hereditary spastic paraplegia 24
+DOID:0110776,hereditary spastic paraplegia 25
+DOID:0110777,hereditary spastic paraplegia 26
+DOID:0110778,hereditary spastic paraplegia 27
+DOID:0110779,hereditary spastic paraplegia 28
+DOID:0110781,hereditary spastic paraplegia 30
+DOID:0110782,hereditary spastic paraplegia 31
+DOID:0110783,hereditary spastic paraplegia 32
+DOID:0110784,hereditary spastic paraplegia 33
+DOID:0110785,hereditary spastic paraplegia 34
+DOID:0110786,hereditary spastic paraplegia 35
+DOID:0110787,hereditary spastic paraplegia 36
+DOID:0110790,hereditary spastic paraplegia 39
+DOID:0110792,hereditary spastic paraplegia 4
+DOID:0110797,hereditary spastic paraplegia 45
+DOID:0110799,hereditary spastic paraplegia 47
+DOID:0110802,hereditary spastic paraplegia 50
+DOID:0110811,hereditary spastic paraplegia 6
+DOID:0110816,hereditary spastic paraplegia 7
+DOID:0110827,usher syndrome type 2
+DOID:0110828,usher syndrome type 3
+DOID:0110829,retinitis pigmentosa-deafness syndrome
+DOID:0110843,xeroderma pigmentosum group a
+DOID:0110844,xeroderma pigmentosum group c
+DOID:0110845,xeroderma pigmentosum group d
+DOID:0110846,xeroderma pigmentosum group e
+DOID:0110848,xeroderma pigmentosum group f
+DOID:0110849,xeroderma pigmentosum group g
+DOID:0110855,posterior polymorphous corneal dystrophy 1
+DOID:0110857,posterior polymorphous corneal dystrophy 3
+DOID:0110858,polycystic kidney disease 1
+DOID:0110859,polycystic kidney disease 2
+DOID:0110861,autosomal recessive polycystic kidney disease
+DOID:0110872,holoprosencephaly 2
+DOID:0110873,holoprosencephaly 9
+DOID:0110875,holoprosencephaly 3
+DOID:0110876,holoprosencephaly 7
+DOID:0110877,holoprosencephaly 11
+DOID:0110878,holoprosencephaly 5
+DOID:0110880,holoprosencephaly 4
+DOID:0110892,inflammatory bowel disease 1
+DOID:0110899,inflammatory bowel disease 28
+DOID:0110909,inflammatory bowel disease 25
+DOID:0110910,leukocyte adhesion deficiency 1
+DOID:0110913,adult hypophosphatasia
+DOID:0110914,infantile hypophosphatasia
+DOID:0110915,childhood hypophosphatasia
+DOID:0110917,hereditary spherocytosis type 2
+DOID:0110918,hereditary spherocytosis type 3
+DOID:0110921,familial hemophagocytic lymphohistiocytosis 1
+DOID:0110922,familial hemophagocytic lymphohistiocytosis 2
+DOID:0110923,familial hemophagocytic lymphohistiocytosis 3
+DOID:0110924,familial hemophagocytic lymphohistiocytosis 4
+DOID:0110925,familial hemophagocytic lymphohistiocytosis 5
+DOID:0110926,nemaline myopathy 1
+DOID:0110929,nemaline myopathy 9
+DOID:0110930,nemaline myopathy 8
+DOID:0110931,nemaline myopathy 10
+DOID:0110933,nemaline myopathy 11
+DOID:0110934,nemaline myopathy 7
+DOID:0110937,autosomal dominant osteopetrosis 1
+DOID:0110938,autosomal dominant osteopetrosis 2
+DOID:0110939,autosomal recessive osteopetrosis 5
+DOID:0110941,autosomal recessive osteopetrosis 3
+DOID:0110942,autosomal recessive osteopetrosis 1
+DOID:0110943,autosomal recessive osteopetrosis 2
+DOID:0110944,autosomal recessive osteopetrosis 4
+DOID:0110946,autosomal recessive osteopetrosis 7
+DOID:0110948,waardenburg syndrome type 1
+DOID:0110949,waardenburg syndrome type 3
+DOID:0110956,waardenburg syndrome type 2e
+DOID:0110957,gaucher's disease type i
+DOID:0110958,gaucher's disease type ii
+DOID:0110959,gaucher's disease type iii
+DOID:0110980,joubert syndrome 1
+DOID:0110999,joubert syndrome 4
+DOID:0111002,joubert syndrome 7
+DOID:0111004,joubert syndrome 9
+DOID:0111005,cone-rod dystrophy 2
+DOID:0111010,cone-rod dystrophy 5
+DOID:0111012,cone-rod dystrophy 7
+DOID:0111013,cone-rod dystrophy 3
+DOID:0111016,cone-rod dystrophy 13
+DOID:0111017,cone-rod dystrophy 10
+DOID:0111018,cone-rod dystrophy 11
+DOID:0111019,cone-rod dystrophy 12
+DOID:0111020,cone-rod dystrophy 9
+DOID:0111021,cone-rod dystrophy 15
+DOID:0111022,cone-rod dystrophy 16
+DOID:0111024,cone-rod dystrophy 18
+DOID:0111025,cone-rod dystrophy 19
+DOID:0111026,cone-rod dystrophy 20
+DOID:0111029,hemochromatosis type 1
+DOID:0111031,hemochromatosis type 5
+DOID:0111035,cadasil 1
+DOID:0111044,gray platelet syndrome
+DOID:0111052,scott syndrome
+DOID:0111054,von willebrand's disease 3
+DOID:0111061,familial hypobetalipoproteinemia 2
+DOID:0111062,familial hypobetalipoproteinemia 1
+DOID:0111064,distal spinal muscular atrophy 1
+DOID:0111065,distal spinal muscular atrophy 2
+DOID:0111073,progressive familial heart block
+DOID:0111078,tibial muscular dystrophy
+DOID:0111081,fanconi anemia complementation group t
+DOID:0111082,fanconi anemia complementation group l
+DOID:0111083,fanconi anemia complementation group d2
+DOID:0111084,fanconi anemia complementation group e
+DOID:0111085,fanconi anemia complementation group u
+DOID:0111086,fanconi anemia complementation group g
+DOID:0111087,fanconi anemia complementation group c
+DOID:0111088,fanconi anemia complementation group f
+DOID:0111092,fanconi anemia complementation group p
+DOID:0111094,fanconi anemia complementation group n
+DOID:0111097,fanconi anemia complementation group j
+DOID:0111098,fanconi anemia complementation group b
+DOID:0111101,maturity-onset diabetes of the young type 5
+DOID:0111106,maturity-onset diabetes of the young type 7
+DOID:0111109,maturity-onset diabetes of the young type 11
+DOID:0111110,maturity-onset diabetes of the young type 13
+DOID:0111111,maturity-onset diabetes of the young type 14
+DOID:0111118,nephronophthisis 11
+DOID:0111119,nephronophthisis 12
+DOID:0111120,nephronophthisis 9
+DOID:0111122,nephronophthisis 14
+DOID:0111123,nephronophthisis 15
+DOID:0111124,nephronophthisis 16
+DOID:0111127,nephronophthisis 20
+DOID:0111129,focal segmental glomerulosclerosis 2
+DOID:0111135,congenital generalized lipodystrophy type 1
+DOID:0111136,congenital generalized lipodystrophy type 2
+DOID:0111137,congenital generalized lipodystrophy type 3
+DOID:0111144,preterm premature rupture of the membranes
+DOID:0111154,postural orthostatic tachycardia syndrome
+DOID:0111156,spermatogenic failure 9
+DOID:0111158,saddan
+DOID:0111162,epidermal nevus
+DOID:0111167,dyggve-melchior-clausen disease
+DOID:0111169,subcortical band heterotopia
+DOID:0111170,autosomal dominant sensory ataxia 1
+DOID:0111181,familial hemiplegic migraine 1
+DOID:0111182,familial hemiplegic migraine 2
+DOID:0111190,distal muscular dystrophy 4
+DOID:0111192,facioscapulohumeral muscular dystrophy 1
+DOID:0111193,facioscapulohumeral muscular dystrophy 2
+DOID:0111196,x-linked distal spinal muscular atrophy 3
+DOID:0111203,distal hereditary motor neuronopathy type 5
+DOID:0111206,distal hereditary motor neuronopathy type 2
+DOID:0111213,distal spinal muscular atrophy type 4
+DOID:0111214,distal spinal muscular atrophy type 5
+DOID:0111216,autosomal recessive centronuclear myopathy
+DOID:0111217,autosomal dominant centronuclear myopathy
+DOID:0111218,friedreich ataxia 1
+DOID:0111220,centronuclear myopathy 2
+DOID:0111223,centronuclear myopathy 1
+DOID:0111225,centronuclear myopathy x-linked
+DOID:0111246,amyotrophic lateral sclerosis-parkinsonism_dementia complex 1
+DOID:0111253,neurofibromatosis 1
+DOID:0111254,glutaric acidemia i
+DOID:0111255,mckusick-kaufman syndrome
+DOID:0111256,hyperferritinemia-cataract syndrome
+DOID:0111272,occipital horn syndrome
+DOID:0111273,narp syndrome
+DOID:0111275,speech-language disorder-1
+DOID:0111294,generalized epilepsy with febrile seizures plus 2
+DOID:0111298,familial febrile seizures 8
+DOID:0111302,generalized epilepsy with febrile seizures plus 1
+DOID:0111305,familial febrile seizures 4
+DOID:0111308,familial febrile seizures 11
+DOID:0111334,congenital leptin deficiency
+DOID:0111335,myopathy with extrapyramidal signs
+DOID:0111338,isolated elevated serum creatine phosphokinase levels
+DOID:0111344,myeloproliferative disorder with eosinophilia
+DOID:0111358,floating-harbor syndrome
+DOID:0111359,large congenital melanocytic nevus
+DOID:0111364,alzheimer's disease 9
+DOID:0111365,benign familial hematuria
+DOID:0111366,familial hepatic adenoma
+DOID:0111369,hyperalphalipoproteinemia 1
+DOID:0111373,familial progressive hyperpigmentation with or without hypopigmentation
+DOID:0111374,selective pituitary thyroid hormone resistance
+DOID:0111375,fetal akinesia deformation sequence syndrome
+DOID:0111380,solitary median maxillary central incisor
+DOID:0111385,inclusion body myopathy with early-onset paget disease of bone with or without frontotemporal dementia 1
+DOID:0111387,familial isolated hypoparathyroidism
+DOID:0111390,mucopolysaccharidosis ih
+DOID:0111391,mucopolysaccharidosis iva
+DOID:0111392,mucopolysaccharidosis type ivb
+DOID:0111393,mucopolysaccharidosis type iiic
+DOID:0111394,mucopolysaccharidosis type iiib
+DOID:0111395,mucopolysaccharidosis type iiia
+DOID:0111396,congenital dyserythropoietic anemia type i
+DOID:0111397,congenital dyserythropoietic anemia type ib
+DOID:0111399,congenital dyserythropoietic anemia type iii
+DOID:0111402,mucopolysaccharidosis type iiid
+DOID:0111405,fraser syndrome 1
+DOID:0111408,exudative vitreoretinopathy 5
+DOID:0111410,exudative vitreoretinopathy 6
+DOID:0111411,exudative vitreoretinopathy 4
+DOID:0111423,branchiootorenal syndrome 1
+DOID:0111424,branchiootorenal syndrome 2
+DOID:0111425,restrictive cardiomyopathy 1
+DOID:0111427,restrictive cardiomyopathy 3
+DOID:0111428,essential tremor 1
+DOID:0111431,essential tremor 4
+DOID:0111432,essential tremor 5
+DOID:0111433,optic atrophy 3
+DOID:0111434,optic atrophy 10
+DOID:0111436,optic atrophy 11
+DOID:0111437,optic atrophy 7
+DOID:0111441,optic atrophy 1
+DOID:0111442,optic atrophy 9
+DOID:0111444,progressive myoclonus epilepsy 4
+DOID:0111446,progressive myoclonus epilepsy 3
+DOID:0111454,short syndrome
+DOID:0111457,sting-associated vasculopathy with onset in infancy
+DOID:0111458,galactose epimerase deficiency
+DOID:0111459,classic galactosemia
+DOID:0111460,cardiofaciocutaneous syndrome 1
+DOID:0111465,combined oxidative phosphorylation deficiency 21
+DOID:0111467,combined oxidative phosphorylation deficiency 13
+DOID:0111468,combined oxidative phosphorylation deficiency 25
+DOID:0111469,combined oxidative phosphorylation deficiency 16
+DOID:0111470,combined oxidative phosphorylation deficiency 28
+DOID:0111471,combined oxidative phosphorylation deficiency 30
+DOID:0111473,combined oxidative phosphorylation deficiency 5
+DOID:0111477,combined oxidative phosphorylation deficiency 14
+DOID:0111478,combined oxidative phosphorylation deficiency 20
+DOID:0111479,combined oxidative phosphorylation deficiency 8
+DOID:0111481,combined oxidative phosphorylation deficiency 11
+DOID:0111484,combined oxidative phosphorylation deficiency 18
+DOID:0111485,combined oxidative phosphorylation deficiency 24
+DOID:0111486,combined oxidative phosphorylation deficiency 3
+DOID:0111487,combined oxidative phosphorylation deficiency 7
+DOID:0111488,combined oxidative phosphorylation deficiency 31
+DOID:0111489,combined oxidative phosphorylation deficiency 27
+DOID:0111490,combined oxidative phosphorylation deficiency 26
+DOID:0111491,combined oxidative phosphorylation deficiency 15
+DOID:0111498,combined oxidative phosphorylation deficiency 22
+DOID:0111500,combined oxidative phosphorylation deficiency 23
+DOID:0111501,combined oxidative phosphorylation deficiency 29
+DOID:0111502,combined oxidative phosphorylation deficiency 6
+DOID:0111503,li-fraumeni syndrome 1
+DOID:0111504,li-fraumeni syndrome 2
+DOID:0111506,palmoplantar keratoderma-esophageal carcinoma syndrome
+DOID:0111509,lymphedema-distichiasis syndrome
+DOID:0111514,metatropic dysplasia
+DOID:0111521,autosomal dominant progressive external ophthalmoplegia 1
+DOID:0111530,linear nevus sebaceous syndrome
+DOID:0111531,bilateral optic nerve hypoplasia
+DOID:0111535,progressive osseous heteroplasia
+DOID:0111537,paroxysmal extreme pain disorder
+DOID:0111538,paramyotonia congenita of von eulenburg
+DOID:0111540,prolidase deficiency
+DOID:0111545,familial male-limited precocious puberty
+DOID:0111546,currarino syndrome
+DOID:0111552,scapuloperoneal spinal muscular atrophy
+DOID:0111563,sturge-weber syndrome
+DOID:0111564,hypoplastic or aplastic tibia with polydactyly
+DOID:0111565,trichodontoosseous syndrome
+DOID:0111581,c syndrome
+DOID:0111590,cohen syndrome
+DOID:0111595,congenital contractural arachnodactyly
+DOID:0111607,distal arthrogryposis type 3
+DOID:0111611,autosomal recessive spinocerebellar ataxia 4
+DOID:0111620,corneal dystrophy-perceptive deafness syndrome
+DOID:0111625,ventriculomegaly - cystic kidney disease
+DOID:0111664,ectodermal dysplasia 1
+DOID:0111669,hyaline fibromatosis syndrome
+DOID:0111670,primary hyperoxaluria type 1
+DOID:0111672,primary hyperoxaluria type 3
+DOID:0111678,hereditary folate malabsorption
+DOID:0111697,"ceft palate, cardiac defects, and intellectual disabillity"
+DOID:0111724,geleophysic dysplasia
+DOID:0111732,eiken syndrome
+DOID:0111788,melnick-needles syndrome
+DOID:0111805,syndromic microphthalmia 6
+DOID:0111806,syndromic microphthalmia 5
+DOID:0111807,syndromic microphthalmia 9
+DOID:0111809,syndromic microphthalmia 2
+DOID:0111813,syndactyly type 8
+DOID:0111818,syndactyly type 4
+DOID:0111822,child syndrome
+DOID:0111827,x-linked spinal muscular atrophy 2
+DOID:0111850,primary ciliary dyskinesia 36
+DOID:0111871,photosensitive trichothiodystrophy 3
+DOID:0111878,diamond-blackfan anemia 7
+DOID:0111881,diamond-blackfan anemia 8
+DOID:0111883,diamond-blackfan anemia 5
+DOID:0111884,diamond-blackfan anemia 9
+DOID:0111887,diamond-blackfan anemia 3
+DOID:0111889,diamond-blackfan anemia 13
+DOID:0111890,diamond-blackfan anemia 4
+DOID:0111892,diamond-blackfan anemia 11
+DOID:0111898,ck syndrome
+DOID:0111901,heparin cofactor ii deficiency
+DOID:0111908,thrombophilia due to thrombomodulin defect
+DOID:10003,sensorineural hearing loss
+DOID:10283,prostate cancer
+DOID:10300,raynaud disease
+DOID:10383,amyotrophic neuralgia
+DOID:10393,secondary hypertrophic osteoarthropathy
+DOID:1040,chronic lymphocytic leukemia
+DOID:10488,imperforate anus
+DOID:10534,stomach cancer
+DOID:10582,refsum disease
+DOID:10588,adrenoleukodystrophy
+DOID:10591,pre-eclampsia
+DOID:10595,charcot-marie-tooth disease
+DOID:10609,rickets
+DOID:1062,fanconi syndrome
+DOID:10629,microphthalmia
+DOID:1064,cystinosis
+DOID:10652,alzheimer's disease
+DOID:1067,open-angle glaucoma
+DOID:10772,thrombotic thrombocytopenic purpura
+DOID:10780,primary polycythemia
+DOID:10871,age related macular degeneration
+DOID:1089,tethered spinal cord syndrome
+DOID:10892,hypospadias
+DOID:10908,hydrocephalus
+DOID:10914,amnestic disorder
+DOID:10923,sickle cell anemia
+DOID:10933,obsessive-compulsive disorder
+DOID:1094,attention deficit hyperactivity disorder
+DOID:11119,gilles de la tourette syndrome
+DOID:11125,qualitative platelet defect
+DOID:11189,pulp degeneration
+DOID:11193,syndactyly
+DOID:11199,hypoparathyroidism
+DOID:11335,sarcoidosis
+DOID:11383,cryptorchidism
+DOID:11476,osteoporosis
+DOID:1148,polydactyly
+DOID:11512,budd-chiari syndrome
+DOID:1156,chondrocalcinosis
+DOID:11612,polycystic ovary syndrome
+DOID:11633,thyroid hormone resistance syndrome
+DOID:11661,blue color blindness
+DOID:1171,hyperlipoproteinemia type v
+DOID:11723,duchenne muscular dystrophy
+DOID:11830,myopia
+DOID:11836,clubfoot
+DOID:11870,pick's disease
+DOID:11949,creutzfeldt-jakob disease
+DOID:11983,prader-willi syndrome
+DOID:11984,hypertrophic cardiomyopathy
+DOID:12098,trigeminal neuralgia
+DOID:12132,granulomatosis with polyangiitis
+DOID:12134,factor viii deficiency
+DOID:12169,carpal tunnel syndrome
+DOID:12176,goiter
+DOID:12236,primary biliary cirrhosis
+DOID:12241,beta thalassemia
+DOID:12270,coloboma
+DOID:12306,vitiligo
+DOID:12336,male infertility
+DOID:12361,graves' disease
+DOID:12365,malaria
+DOID:12376,juvenile spinal muscular atrophy
+DOID:12387,nephrogenic diabetes insipidus
+DOID:12388,neurohypophyseal diabetes insipidus
+DOID:12449,aplastic anemia
+DOID:12557,duane retraction syndrome
+DOID:12558,chronic progressive external ophthalmoplegia
+DOID:12700,hyperprolactinemia
+DOID:12704,ataxia telangiectasia
+DOID:12707,myoclonic cerebellar dyssynergia
+DOID:12716,newborn respiratory distress syndrome
+DOID:12801,mucopolysaccharidosis iii
+DOID:12849,autistic disorder
+DOID:12858,huntington's disease
+DOID:12859,choreatic disease
+DOID:12894,sjogren's syndrome
+DOID:12930,dilated cardiomyopathy
+DOID:12932,endomyocardial fibrosis
+DOID:12960,acrocephalosyndactylia
+DOID:13025,retinopathy of prematurity
+DOID:13042,persistent fetal circulation syndrome
+DOID:13087,lown-ganong-levine syndrome
+DOID:1312,focal segmental glomerulosclerosis
+DOID:1324,lung cancer
+DOID:13241,behcet's disease
+DOID:13269,hereditary coproporphyria
+DOID:13270,erythropoietic protoporphyria
+DOID:13372,alpha 1-antitrypsin deficiency
+DOID:13382,megaloblastic anemia
+DOID:1339,diamond-blackfan anemia
+DOID:13515,tuberous sclerosis
+DOID:13636,fanconi anemia
+DOID:13641,exfoliation syndrome
+DOID:13714,anodontia
+DOID:1380,endometrial cancer
+DOID:13809,familial combined hyperlipidemia
+DOID:13810,familial hypercholesterolemia
+DOID:13832,patent ductus arteriosus
+DOID:1387,hypolipoproteinemia
+DOID:1388,tangier disease
+DOID:13884,sick sinus syndrome
+DOID:13976,peptic esophagitis
+DOID:14004,thoracic aortic aneurysm
+DOID:14116,multiple symmetric lipomatosis
+DOID:14219,renal tubular acidosis
+DOID:14221,abdominal obesity-metabolic syndrome 1
+DOID:14250,down syndrome
+DOID:14261,fragile x syndrome
+DOID:14323,marfan syndrome
+DOID:14330,parkinson's disease
+DOID:14365,systemic primary carnitine deficiency disease
+DOID:14452,hypokalemic periodic paralysis
+DOID:14501,sjogren-larsson syndrome
+DOID:14525,reye syndrome
+DOID:1459,hypothyroidism
+DOID:14692,smith-lemli-opitz syndrome
+DOID:14693,clouston syndrome
+DOID:1485,cystic fibrosis
+DOID:1540,parathyroid carcinoma
+DOID:1588,thrombocytopenia
+DOID:1657,ventricular septal defect
+DOID:1682,congenital heart disease
+DOID:1697,ichthyosis
+DOID:1700,x-linked ichthyosis
+DOID:1790,malignant mesothelioma
+DOID:1793,pancreatic cancer
+DOID:1826,epilepsy
+DOID:1837,diabetic ketoacidosis
+DOID:1838,menkes disease
+DOID:1858,mccune albright syndrome
+DOID:1882,atrial heart septal defect
+DOID:1911,endodermal sinus tumor
+DOID:1924,hypogonadism
+DOID:1926,gaucher's disease
+DOID:1936,atherosclerosis
+DOID:2058,chronic mucocutaneous candidiasis
+DOID:2106,myotonia congenita
+DOID:2121,ectodermal dysplasia
+DOID:2224,essential thrombocythemia
+DOID:2235,prothrombin deficiency
+DOID:2236,congenital afibrinogenemia
+DOID:2280,hidradenitis suppurativa
+DOID:230,lateral sclerosis
+DOID:2339,crouzon syndrome
+DOID:2340,craniosynostosis
+DOID:2349,arteriosclerosis
+DOID:2352,hemochromatosis
+DOID:2355,anemia
+DOID:2377,multiple sclerosis
+DOID:2383,neonatal jaundice
+DOID:2394,ovarian cancer
+DOID:2452,thrombophilia
+DOID:2508,takayasu's arteritis
+DOID:2512,nevoid basal cell carcinoma syndrome
+DOID:2583,agammaglobulinemia
+DOID:2738,pseudoxanthoma elasticum
+DOID:2746,glycogen storage disease v
+DOID:2752,glycogen storage disease ii
+DOID:2800,acute interstitial pneumonia
+DOID:2841,asthma
+DOID:2843,long qt syndrome
+DOID:2871,endometrial carcinoma
+DOID:289,endometriosis
+DOID:2914,immune system disease
+DOID:2962,cockayne syndrome
+DOID:2986,iga glomerulonephritis
+DOID:2987,familial mediterranean fever
+DOID:2988,antiphospholipid syndrome
+DOID:3068,glioblastoma multiforme
+DOID:3069,astrocytoma
+DOID:3070,malignant glioma
+DOID:3083,chronic obstructive pulmonary disease
+DOID:3132,porphyria cutanea tarda
+DOID:3153,lipomatosis
+DOID:326,ischemia
+DOID:3310,atopic dermatitis
+DOID:3312,bipolar disorder
+DOID:3319,lymphangioleiomyomatosis
+DOID:332,amyotrophic lateral sclerosis
+DOID:3329,benign epilepsy with centrotemporal spikes
+DOID:3347,osteosarcoma
+DOID:3369,ewing sarcoma
+DOID:3371,chondrosarcoma
+DOID:3393,coronary artery disease
+DOID:3429,inclusion body myositis
+DOID:349,systemic mastocytosis
+DOID:3526,cerebral infarction
+DOID:3535,unverricht-lundborg syndrome
+DOID:3571,liver cancer
+DOID:3614,kallmann syndrome
+DOID:3635,congenital myasthenic syndrome
+DOID:3687,melas syndrome
+DOID:3755,antithrombin iii deficiency
+DOID:3756,protein c deficiency
+DOID:3762,cytochrome-c oxidase deficiency disease
+DOID:3827,congenital diaphragmatic hernia
+DOID:384,wolff-parkinson-white syndrome
+DOID:3883,lynch syndrome
+DOID:3890,acute intermittent porphyria
+DOID:3908,lung non-small cell carcinoma
+DOID:3911,progeria
+DOID:3928,adiposis dolorosa
+DOID:3948,adrenocortical carcinoma
+DOID:3962,thyroid gland follicular carcinoma
+DOID:397,restrictive cardiomyopathy
+DOID:4051,alveolar rhabdomyosarcoma
+DOID:417,autoimmune hypersensitivity disease
+DOID:418,systemic scleroderma
+DOID:4184,pseudohypoparathyroidism
+DOID:419,scleroderma
+DOID:4252,alexander disease
+DOID:4257,caffey disease
+DOID:4367,apparent mineralocorticoid excess syndrome
+DOID:437,myasthenia gravis
+DOID:4386,myofibroma
+DOID:4447,cystoid macular edema
+DOID:445,bartter disease
+DOID:4450,renal cell carcinoma
+DOID:4467,clear cell renal cell carcinoma
+DOID:4603,epidermolytic hyperkeratosis
+DOID:4621,holoprosencephaly
+DOID:4648,familial retinoblastoma
+DOID:4890,juvenile myoclonic epilepsy
+DOID:4926,bronchiolo-alveolar adenocarcinoma
+DOID:4971,myelofibrosis
+DOID:4989,pancreatitis
+DOID:4990,essential tremor
+DOID:5075,myxopapillary ependymoma
+DOID:5394,prolactinoma
+DOID:5408,paget's disease of bone
+DOID:5409,lung small cell carcinoma
+DOID:5419,schizophrenia
+DOID:5426,premature ovarian failure
+DOID:5453,pulmonary venoocclusive disease
+DOID:5504,tanycytic ependymoma
+DOID:552,pneumonia
+DOID:5557,testicular germ cell cancer
+DOID:5608,dental pulp calcification
+DOID:5688,werner syndrome
+DOID:5723,optic atrophy
+DOID:583,hemolytic anemia
+DOID:5844,myocardial infarction
+DOID:585,nephrolithiasis
+DOID:6039,uveal melanoma
+DOID:6132,bronchitis
+DOID:615,leukopenia
+DOID:6225,cronkhite-canada syndrome
+DOID:633,myositis
+DOID:6406,double outlet right ventricle
+DOID:6498,seborrheic keratosis
+DOID:6688,autoimmune lymphoproliferative syndrome
+DOID:678,progressive supranuclear palsy
+DOID:684,hepatocellular carcinoma
+DOID:687,hepatoblastoma
+DOID:699,mitochondrial myopathy
+DOID:705,leber hereditary optic neuropathy
+DOID:7147,ankylosing spondylitis
+DOID:7148,rheumatoid arthritis
+DOID:7188,autoimmune thyroiditis
+DOID:758,situs inversus
+DOID:7693,abdominal aortic aneurysm
+DOID:7997,thyrotoxicosis
+DOID:7998,hyperthyroidism
+DOID:824,periodontitis
+DOID:83,cataract
+DOID:8454,riboflavin deficiency
+DOID:8461,aicardi syndrome
+DOID:8469,influenza
+DOID:848,arthritis
+DOID:8534,gastroesophageal reflux disease
+DOID:8545,malignant hyperthermia
+DOID:8552,chronic myeloid leukemia
+DOID:8567,hodgkin's lymphoma
+DOID:9410,panhypopituitarism
+DOID:1673,pneumothorax
+DOID:526,human immunodeficiency virus infectious disease
+DOID:5151,plexiform neurofibroma
+DOID:4359,amelanotic melanoma
+DOID:3082,interstitial lung disease
+DOID:4404,occupational dermatitis
+DOID:5574,vipoma
+DOID:4193,intracranial thrombosis
+DOID:3146,lipid metabolism disorder
+DOID:12273,anisometropia
+DOID:11758,iron deficiency anemia
+DOID:5062,phencyclidine abuse
+DOID:3362,coronary aneurysm
+DOID:3145,hyperlipoproteinemia type iii
+DOID:10325,silicosis
+DOID:2361,macrocytic anemia
+DOID:299,adenocarcinoma
+DOID:3071,gliosarcoma
+DOID:12205,dengue disease
+DOID:680,tauopathy
+DOID:115,cardiac tamponade
+DOID:2983,anuria
+DOID:0060171,obsolete dravet syndrome
+DOID:1875,impotence
+DOID:3952,adrenal cortex disease
+DOID:2742,auditory system disease
+DOID:13189,gout
+DOID:2920,membranoproliferative glomerulonephritis
+DOID:4552,large cell carcinoma
+DOID:4676,uremia
+DOID:480,movement disease
+DOID:520,aortic disease
+DOID:1247,blood coagulation disease
+DOID:4251,conjunctival disease
+DOID:1307,dementia
+DOID:11613,hyperandrogenism
+DOID:0050836,focal dystonia
+DOID:13544,low tension glaucoma
+DOID:1168,familial hyperlipidemia
+DOID:341,peripheral vascular disease
+DOID:4961,bone marrow disease
+DOID:655,inherited metabolic disorder
+DOID:12143,neurogenic bladder
+DOID:13550,angle-closure glaucoma
+DOID:3627,aortic aneurysm
+DOID:5082,liver cirrhosis
+DOID:13141,uveitis
+DOID:14504,niemann-pick disease
+DOID:13938,amenorrhea
+DOID:2671,transitional cell carcinoma
+DOID:3522,lateral medullary syndrome
+DOID:3134,facial dermatosis
+DOID:1686,glaucoma
+DOID:6376,hypersplenism
+DOID:4468,clear cell adenocarcinoma
+DOID:13619,extrahepatic cholestasis
+DOID:11088,asphyxia neonatorum
+DOID:811,lipodystrophy
+DOID:6713,cerebrovascular disease
+DOID:4483,rhinitis
+DOID:13543,hyperparathyroidism
+DOID:3052,balkan nephropathy
+DOID:0050459,hyperphosphatemia
+DOID:14110,anus cancer
+DOID:614,lymphopenia
+DOID:0001816,angiosarcoma
+DOID:0050426,stevens-johnson syndrome
+DOID:2316,brain ischemia
+DOID:4964,neurotic disorder
+DOID:13564,aspergillosis
+DOID:783,end stage renal disease
+DOID:2975,cystic kidney disease
+DOID:0050152,aspiration pneumonia
+DOID:3587,pancreatic ductal carcinoma
+DOID:14018,alcoholic liver cirrhosis
+DOID:0014667,disease of metabolism
+DOID:1631,benign breast phyllodes tumor
+DOID:1591,renovascular hypertension
+DOID:3650,lactic acidosis
+DOID:4254,osteosclerosis
+DOID:0050486,exanthem
+DOID:0050745,diffuse large b-cell lymphoma
+DOID:403,mouth disease
+DOID:1319,brain cancer
+DOID:6432,pulmonary hypertension
+DOID:302,substance abuse
+DOID:2772,irritant dermatitis
+DOID:14268,sclerosing cholangitis
+DOID:1509,avoidant personality disorder
+DOID:3007,breast ductal carcinoma
+DOID:4543,retrograde amnesia
+DOID:2043,hepatitis b
+DOID:12382,complex partial epilepsy
+DOID:0050185,erythema multiforme
+DOID:0060046,aphasia
+DOID:3247,rhabdomyosarcoma
+DOID:14067,plasmodium falciparum malaria
+DOID:0080000,muscular disease
+DOID:0050871,fibroma
+DOID:3620,central nervous system cancer
+DOID:2303,stereotypic movement disorder
+DOID:11502,mitral valve insufficiency
+DOID:0050725,tyrosinemia type ii
+DOID:0060164,pain disorder
+DOID:707,b-cell lymphoma
+DOID:13949,interstitial cystitis
+DOID:10907,microcephaly
+DOID:2378,relapsing-remitting multiple sclerosis
+DOID:3355,fibrosarcoma
+DOID:12935,alcoholic cardiomyopathy
+DOID:0050523,adult t-cell leukemia
+DOID:1210,optic neuritis
+DOID:2367,neuroaxonal dystrophy
+DOID:2527,nephrosis
+DOID:6000,congestive heart failure
+DOID:1923,disorders of sexual development
+DOID:14146,ureterolithiasis
+DOID:5403,microcystic adenoma
+DOID:13768,opisthorchiasis
+DOID:1595,endogenous depression
+DOID:3565,meningioma
+DOID:12217,lewy body dementia
+DOID:1229,paranoid schizophrenia
+DOID:0050746,mantle cell lymphoma
+DOID:13948,bladder neck obstruction
+DOID:10247,pleurisy
+DOID:2320,obstructive lung disease
+DOID:11394,adult respiratory distress syndrome
+DOID:10132,psychosexual disorder
+DOID:529,blepharospasm
+DOID:10976,membranous glomerulonephritis
+DOID:2921,glomerulonephritis
+DOID:4236,carcinosarcoma
+DOID:1129,pituitary apoplexy
+DOID:10123,pigmentation disease
+DOID:11934,head and neck cancer
+DOID:13603,obstructive jaundice
+DOID:1107,esophageal carcinoma
+DOID:0060255,rippling muscle disease 2
+DOID:11664,nephrosclerosis
+DOID:3491,turner syndrome
+DOID:780,placenta disease
+DOID:219,colon cancer
+DOID:2913,acute pancreatitis
+DOID:2786,cerebellar disease
+DOID:12297,vogt-koyanagi-harada disease
+DOID:4079,heart valve disease
+DOID:8463,corneal ulcer
+DOID:3401,inappropriate adh syndrome
+DOID:850,lung disease
+DOID:3405,histiocytosis
+DOID:10320,asbestosis
+DOID:3410,carotid artery thrombosis
+DOID:10608,celiac disease
+DOID:4247,coronary restenosis
+DOID:1852,intrahepatic cholestasis
+DOID:8466,retinal degeneration
+DOID:12679,nephrocalcinosis
+DOID:331,central nervous system disease
+DOID:3488,cellulitis
+DOID:14447,gonadal dysgenesis
+DOID:1024,leprosy
+DOID:3246,embryonal rhabdomyosarcoma
+DOID:2773,contact dermatitis
+DOID:12466,secondary hyperparathyroidism
+DOID:182,calcinosis
+DOID:12450,pancytopenia
+DOID:1555,urticaria
+DOID:53,pituitary gland disease
+DOID:1184,nephrotic syndrome
+DOID:1727,retinal vein occlusion
+DOID:1934,dysostosis
+DOID:3213,demyelinating disease
+DOID:10747,obsolete lymphoid leukemia
+DOID:11294,arteriovenous malformation
+DOID:0060002,c1 inhibitor deficiency
+DOID:110,lens disease
+DOID:2768,transient tic disorder
+DOID:112,esophageal varix
+DOID:5434,scrapie
+DOID:0050670,ataxic cerebral palsy
+DOID:263,kidney cancer
+DOID:3454,brain infarction
+DOID:1037,lymphoid leukemia
+DOID:11714,gestational diabetes
+DOID:2703,synovitis
+DOID:2449,acromegaly
+DOID:0060212,amyotrophic lateral sclerosis type 21
+DOID:2978,carbohydrate metabolic disorder
+DOID:0060040,pervasive developmental disorder
+DOID:13252,mesenteric vascular occlusion
+DOID:0002116,pterygium
+DOID:2213,hemorrhagic disease
+DOID:1289,neurodegenerative disease
+DOID:3277,thymus cancer
+DOID:2384,wernicke encephalopathy
+DOID:4535,hypotrichosis
+DOID:2531,hematologic cancer
+DOID:3953,adrenal gland cancer
+DOID:365,bladder disease
+DOID:3165,skin benign neoplasm
+DOID:161,keratosis
+DOID:12698,gynecomastia
+DOID:0060249,scoliosis
+DOID:13364,obsolete chronobiology disease
+DOID:1508,candidiasis
+DOID:0060189,ileitis
+DOID:1561,cognitive disorder
+DOID:11100,q fever
+DOID:5338,gingival hypertrophy
+DOID:1824,status epilepticus
+DOID:0050749,peripheral t-cell lymphoma
+DOID:3507,dermatofibrosarcoma protuberans
+DOID:0050597,intestinal schistosomiasis
+DOID:3463,breast disease
+DOID:1532,pleural disease
+DOID:1240,leukemia
+DOID:5485,synovial sarcoma
+DOID:1496,echinococcosis
+DOID:10824,malignant hypertension
+DOID:2237,hepatitis
+DOID:0050758,metabolic acidosis
+DOID:2596,larynx cancer
+DOID:4947,cholangiocarcinoma
+DOID:450,myotonic disease
+DOID:0060061,cutaneous t cell lymphoma
+DOID:3576,sagittal sinus thrombosis
+DOID:6419,tetralogy of fallot
+DOID:14555,foster-kennedy syndrome
+DOID:1883,hepatitis c
+DOID:12028,conn's syndrome
+DOID:1172,hyperlipoproteinemia type iv
+DOID:1192,peripheral nervous system neoplasm
+DOID:3525,middle cerebral artery infarction
+DOID:11713,diabetic angiopathy
+DOID:2351,iron metabolism disease
+DOID:11123,henoch-schoenlein purpura
+DOID:0060053,obsolete peripheral neuropathy
+DOID:0050865,tongue squamous cell carcinoma
+DOID:14262,oral candidiasis
+DOID:3572,intracranial sinus thrombosis
+DOID:6050,esophageal disease
+DOID:1073,renal hypertension
+DOID:3781,anovulation
+DOID:2741,bilirubin metabolic disorder
+DOID:77,gastrointestinal system disease
+DOID:127,leiomyoma
+DOID:2272,vulvovaginal candidiasis
+DOID:5463,cochlear disease
+DOID:13050,corpus luteum cyst
+DOID:4479,pseudohypoaldosteronism
+DOID:0060180,colitis
+DOID:2730,epidermolysis bullosa
+DOID:2519,testicular disease
+DOID:4500,hypokalemia
+DOID:576,proteinuria
+DOID:10763,hypertension
+DOID:1432,blindness
+DOID:0050830,peripheral artery disease
+DOID:2490,congenital nervous system abnormality
+DOID:649,prion disease
+DOID:682,compartment syndrome
+DOID:11823,hepatorenal syndrome
+DOID:0060329,ectopic pregnancy
+DOID:13774,addison's disease
+DOID:4960,bone marrow cancer
+DOID:11132,prostatic hypertrophy
+DOID:3382,liposarcoma
+DOID:10223,dermatomyositis
+DOID:10808,gastric ulcer
+DOID:3121,gallbladder cancer
+DOID:1115,sarcoma
+DOID:12678,hypercalcemia
+DOID:12986,leukostasis
+DOID:319,spinal cord disease
+DOID:8398,osteoarthritis
+DOID:4378,peanut allergy
+DOID:7725,epilepsy with generalized tonic-clonic seizures
+DOID:1529,penile disease
+DOID:1909,melanoma
+DOID:11573,listeriosis
+DOID:1679,cystitis
+DOID:14654,prostatitis
+DOID:0050451,brugada syndrome
+DOID:4677,keratitis
+DOID:2048,autoimmune hepatitis
+DOID:0050685,small cell carcinoma
+DOID:119,vaginal cancer
+DOID:809,cocaine abuse
+DOID:11656,cicatricial pemphigoid
+DOID:2074,intestinal perforation
+DOID:65,connective tissue disease
+DOID:674,cleft palate
+DOID:2326,gastroenteritis
+DOID:8488,polyhydramnios
+DOID:10939,antisocial personality disorder
+DOID:0060118,thoracic disease
+DOID:4491,persian gulf syndrome
+DOID:1967,leiomyosarcoma
+DOID:731,urinary system benign neoplasm
+DOID:0060319,cardiac arrest
+DOID:672,spleen cancer
+DOID:3407,carotid artery disease
+DOID:1659,supratentorial cancer
+DOID:0050840,cervical dystonia
+DOID:1618,breast fibroadenoma
+DOID:1222,cartilage disease
+DOID:1724,duodenal ulcer
+DOID:10140,dry eye syndrome
+DOID:0060292,x-linked chondrodysplasia punctata 1
+DOID:0050642,hypochromic microcytic anemia
+DOID:11840,coronary artery vasospasm
+DOID:3192,neurilemmoma
+DOID:0060060,non-hodgkin lymphoma
+DOID:2723,dermatitis
+DOID:6263,inflammatory breast carcinoma
+DOID:11963,esophagitis
+DOID:3328,temporal lobe epilepsy
+DOID:11162,respiratory failure
+DOID:0050847,sleep apnea
+DOID:205,hyperostosis
+DOID:4790,medulloepithelioma
+DOID:11400,pyelonephritis
+DOID:4248,coronary stenosis
+DOID:5425,ovarian hyperstimulation syndrome
+DOID:0050562,west syndrome
+DOID:12987,agranulocytosis
+DOID:5679,retinal disease
+DOID:0050813,spondyloepiphyseal dysplasia with congenital joint dislocations
+DOID:178,vascular disease
+DOID:0050697,chorioamnionitis
+DOID:305,carcinoma
+DOID:0050856,oppositional defiant disorder
+DOID:11446,sciatic neuropathy
+DOID:3119,gastrointestinal system cancer
+DOID:13268,porphyria
+DOID:11111,hydronephrosis
+DOID:4724,brain edema
+DOID:5113,nutritional deficiency disease
+DOID:0050751,t-cell large granular lymphocyte leukemia
+DOID:4988,alcoholic pancreatitis
+DOID:1849,cannabis dependence
+DOID:2218,blood platelet disease
+DOID:11372,megacolon
+DOID:13918,somatization disorder
+DOID:5241,hemangioblastoma
+DOID:2030,anxiety disorder
+DOID:409,liver disease
+DOID:5199,ureteral obstruction
+DOID:10603,glucose intolerance
+DOID:718,autoimmune hemolytic anemia
+DOID:399,tuberculosis
+DOID:0060119,pharynx cancer
+DOID:12556,acute kidney tubular necrosis
+DOID:4661,multiple chemical sensitivity
+DOID:0080001,bone disease
+DOID:10690,mastitis
+DOID:4138,bile duct disease
+DOID:11396,pulmonary edema
+DOID:635,acquired immunodeficiency syndrome
+DOID:420,hypertrichosis
+DOID:0050155,sensory system disease
+DOID:11755,choledocholithiasis
+DOID:2513,basal cell carcinoma
+DOID:10322,berylliosis
+DOID:5327,retinal detachment
+DOID:813,septic arthritis
+DOID:594,panic disorder
+DOID:4305,bone giant cell tumor
+DOID:13100,intracranial vasospasm
+DOID:841,extrinsic allergic alveolitis
+DOID:8283,peritonitis
+DOID:12705,friedreich ataxia
+DOID:224,transient cerebral ischemia
+DOID:2957,pulmonary tuberculosis
+DOID:1205,allergic hypersensitivity disease
+DOID:557,kidney disease
+DOID:2994,germ cell cancer
+DOID:3459,breast carcinoma
+DOID:0050127,sinusitis
+DOID:47,prostate disease
+DOID:5223,infertility
+DOID:11847,coronary thrombosis
+DOID:14228,oligospermia
+DOID:440,neuromuscular disease
+DOID:0050756,obsolete cln3 disease
+DOID:11503,diabetic autonomic neuropathy
+DOID:1781,thyroid gland cancer
+DOID:6364,migraine
+DOID:0050748,marginal zone b-cell lymphoma
+DOID:2018,hyperinsulinism
+DOID:114,heart disease
+DOID:285,hairy cell leukemia
+DOID:11355,bladder calculus
+DOID:10554,meningoencephalitis
+DOID:13001,carotid stenosis
+DOID:0050742,nicotine dependence
+DOID:10966,lipoid nephrosis
+DOID:2893,cervix carcinoma
+DOID:11257,social phobia
+DOID:4230,smooth muscle cancer
+DOID:3042,allergic contact dermatitis
+DOID:1074,kidney failure
+DOID:10969,hemiplegia
+DOID:2799,bronchiolitis obliterans
+DOID:3965,merkel cell carcinoma
+DOID:1227,neutropenia
+DOID:0050731,vitamin b12 deficiency
+DOID:1984,rectal benign neoplasm
+DOID:0050753,cerebellar ataxia
+DOID:11382,corneal neovascularization
+DOID:750,peptic ulcer disease
+DOID:3602,toxic encephalopathy
+DOID:820,myocarditis
+DOID:12351,alcoholic hepatitis
+DOID:11077,brucellosis
+DOID:0050432,asperger syndrome
+DOID:10124,corneal disease
+DOID:679,basal ganglia disease
+DOID:0050835,generalized dystonia
+DOID:1176,bronchial disease
+DOID:14115,toxic shock syndrome
+DOID:14497,wolman disease
+DOID:13378,kawasaki disease
+DOID:2722,acrodermatitis
+DOID:8506,bullous pemphigoid
+DOID:539,ophthalmoplegia
+DOID:11244,neonatal anemia
+DOID:12554,hemolytic-uremic syndrome
+DOID:0080011,bone resorption disease
+DOID:0060321,umbilical hernia
+DOID:11914,gastroparesis
+DOID:769,neuroblastoma
+DOID:3324,mood disorder
+DOID:0060058,lymphoma
+DOID:10211,cholelithiasis
+DOID:0050744,anaplastic large cell lymphoma
+DOID:0050336,hypophosphatemia
+DOID:255,hemangioma
+DOID:1063,interstitial nephritis
+DOID:12157,aseptic meningitis
+DOID:10762,portal hypertension
+DOID:2559,opiate dependence
+DOID:171,neuroectodermal tumor
+DOID:13186,megaesophagus
+DOID:0050868,hepatocellular adenoma
+DOID:13413,hepatic encephalopathy
+DOID:2998,testicular cancer
+DOID:0050427,xeroderma pigmentosum
+DOID:13548,secondary parkinson disease
+DOID:10316,pneumoconiosis
+DOID:10783,methemoglobinemia
+DOID:10685,separation anxiety disorder
+DOID:0080014,chromosomal disease
+DOID:12252,obsolete cushing's syndrome
+DOID:2999,granulosa cell tumor
+DOID:2615,papilloma
+DOID:4195,hyperglycemia
+DOID:184,bone cancer
+DOID:2560,morphine dependence
+DOID:5603,t-cell acute lymphoblastic leukemia
+DOID:363,uterine cancer
+DOID:13148,acute cystitis
+DOID:8541,sezary's disease
+DOID:3612,retinitis
+DOID:74,hematopoietic system disease
+DOID:12010,anterior ischemic optic neuropathy
+DOID:37,skin disease
+DOID:767,muscular atrophy
+DOID:0050527,obsolete familial hypertriglyceridemia
+DOID:10952,nephritis
+DOID:2945,severe acute respiratory syndrome
+DOID:421,hair disease
+DOID:0050625,biliary tract benign neoplasm
+DOID:1389,polyneuropathy
+DOID:1920,hyperuricemia
+DOID:2154,nephroblastoma
+DOID:1557,hypersensitivity reaction type iii disease
+DOID:2529,splenic disease
+DOID:2855,hyperthyroxinemia
+DOID:57,aortic valve insufficiency
+DOID:13580,cholestasis
+DOID:3181,oligodendroglioma
+DOID:4752,multiple system atrophy
+DOID:10155,intestinal cancer
+DOID:4371,schnitzler syndrome
+DOID:10192,pleomorphic lipoma
+DOID:118,pericardial effusion
+DOID:1100,ovarian disease
+DOID:5295,intestinal disease
+DOID:11247,disseminated intravascular coagulation
+DOID:1005,endometrial disease
+DOID:715,t-cell lymphoblastic leukemia_lymphoma
+DOID:12783,migraine without aura
+DOID:11465,autonomic nervous system disease
+DOID:530,eyelid disease
+DOID:5759,sebaceous gland neoplasm
+DOID:1470,major depressive disorder
+DOID:11054,urinary bladder cancer
+DOID:8437,intestinal obstruction
+DOID:4123,nail disease
+DOID:681,progressive bulbar palsy
+DOID:1461,cholesterol embolism
+DOID:10159,osteonecrosis
+DOID:3892,insulinoma
+DOID:1749,squamous cell carcinoma
+DOID:11819,ureter cancer
+DOID:3021,acute kidney failure
+DOID:13934,facial paralysis
+DOID:11328,schizophreniform disorder
+DOID:12399,pathological gambling
+DOID:3388,periodontal disease
+DOID:76,stomach disease
+DOID:1785,pituitary cancer
+DOID:3426,vestibular disease
+DOID:10600,chronic tic disorder
+DOID:169,neuroendocrine tumor
+DOID:3044,food allergy
+DOID:2696,leydig cell tumor
+DOID:4606,bile duct cancer
+DOID:423,myopathy
+DOID:9351,diabetes mellitus
+DOID:9471,meningitis
+DOID:9120,amyloidosis
+DOID:9970,obesity
+DOID:9455,lipid storage disease
+DOID:9588,encephalitis
+DOID:898,autosomal dominant polycystic kidney disease
+DOID:1564,fungal infectious disease
